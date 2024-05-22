@@ -1,4 +1,4 @@
-sse notebook possui diversos Pipelines prontos para uso. Antes de cada uso, existe uma explicação de qual é sua utilidade.
+Esse notebook possui diversos Pipelines prontos para uso. Antes de cada uso, existe uma explicação de qual é sua utilidade.
 
 A função pipeline é a função mais básica do Transformers - conectando um modelo com as etapas de pré e pós processamento, ela permite que tenhamos um resultado de processamento de texto em poucas linhas.
 
